@@ -54,7 +54,7 @@ I haven't learn git
 
 Start to learn Computer Network.
 
-v## Week3
+## Week3
 
 #### **Learning hours**:
 
